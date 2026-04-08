@@ -58,6 +58,9 @@ def _ping_loop():
         time.sleep(_PING_INTERVAL)
 
 
+keep_alive = None  # alias set below
+
+
 def lastperson07_keep_alive():
     global _SERVER, _PING_THREAD
 
