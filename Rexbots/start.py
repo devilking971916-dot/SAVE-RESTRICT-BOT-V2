@@ -78,12 +78,12 @@ class script(object):
 • Priority Support & Advanced Features.
 """
     ABOUT_TXT = """<b>ℹ️ About This Bot</b>
-<blockquote><b>╭────[ 🧩 𝐀𝐍𝐔𝐉 𝐊𝐔𝐌𝐀𝐑 ]────⍟</b>
+<blockquote><b>╭────[ 🧩 𝐀𝐍𝐔𝐉 ]────⍟</b>
 <b>├⍟ 🤖 Bot Name : <a href=http://t.me/save_restricted_content_ak_bot>Save Content</a></b>
 <b>├⍟ 👨‍💻 Developer : <a href=https://t.me/anujedits76>𝐀𝐍𝐔𝐉 𝐊𝐔𝐌𝐀𝐑</a></b>
 <b>├⍟ 📚 Library : <a href='https://docs.pyrogram.org/'>Pyrogram Async</a></b>
 <b>├⍟ 🐍 Language : <a href='https://www.python.org/'>Python 3.11+</a></b>
-<b>├⍟ 🗄 Database : <a href='https://www.mongodb.com/'>MongoDB Atlas Cluster</a></b>
+<b>├⍟ 🗄 Database : <a href='https://www.mongodb.com/'>MongoDB Cluster</a></b>
 <b>├⍟ 📡 Hosting : Dedicated High-Speed VPS</b>
 <b>╰───────────────⍟</b></blockquote>
 """
@@ -102,7 +102,7 @@ class script(object):
 • <b>Lifetime Access:</b> ₹3000 / $32.5 (One-Time Payment)
 <blockquote><b>👇 Secure Payment:</b></blockquote>
 <b>💸 UPI ID:</b> <code>971916880@ybl</code>
-<b>📸 QR Code:</b> <a href='{}'>971916880@ybl</a>
+<b>📸 QR Code:</b> <a href='{}'>Scan to Pay</a>
 <i>After Payment: Send Screenshot to Admin for Instant Activation.</i>
 """
     PROGRESS_BAR = """\
